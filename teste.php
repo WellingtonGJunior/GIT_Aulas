@@ -1,2 +1,2 @@
 <?php phopinfo(); ?>
-<?="Teste";?>
+Olá>
